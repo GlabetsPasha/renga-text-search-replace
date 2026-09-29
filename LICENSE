@@ -1,0 +1,12 @@
+﻿Copyright (c) 2026 glabets.pasha@yandex.ru. All rights reserved.
+
+Плагин TextSearchReplace распространяется только в виде готовой сборки
+для личного и служебного использования. Копирование, изменение,
+декомпиляция и дальнейшее распространение без письменного разрешения
+автора запрещены.
+
+Программа предоставляется «как есть», без каких-либо гарантий.
+
+Сторонние компоненты в составе архива:
+- Renga.WPF.Styles.dll - лицензия MIT, см. LICENSE-Renga.WPF.Styles.txt;
+- Interop.Renga.dll, Renga.NET8.PluginUtility.dll - из Renga SDK, права принадлежат Renga Software.
